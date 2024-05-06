@@ -1,6 +1,6 @@
 French developper 
 
-HTML / CSS / JS / PHP / JSON / PMMP
+Learn Back-End web-developement
 
 <!---
 xBibouu/xBibouu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
