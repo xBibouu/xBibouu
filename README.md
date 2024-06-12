@@ -18,12 +18,6 @@
 <p>
     <a href="https://github.com/xBibouu/nEnchantingTable" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xBibouu&repo=nEnchantingTable&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
 </a>
-<a href="https://github.com/xBibouu/GoogleFormsScripts" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xBibouu&repo=GoogleFormsScripts&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-<a href="https://github.com/xBibouu/Nitro-Link-Checker" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xBibouu&repo=Nitro-Link-Checker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-<a href="https://github.com/xBibouu/Anti-Cheat-Payday-2" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xBibouu&repo=Anti-Cheat-Payday-2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
 </p>
 
 ###
