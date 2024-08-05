@@ -1,7 +1,7 @@
 ## xBibou
 
-- 🤍 HTML5, CSS, JavaScript, PHP, C#
-- 🖤 @Passionate developer
+- 🤍 PHP, C#
+- 🖤 @French developer
 - 🧊 Founder of Néphelia
 
 ###
