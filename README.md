@@ -2,7 +2,7 @@
 
 - 🤍 PHP, C#
 - 🖤 French developer
-- 🧊 Founder of Néphelia
+- 🏆 Founder of Néphelia
 
 ###
 <p align="center">
