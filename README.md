@@ -14,7 +14,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xBibouu&layout=compact&theme=github-compact"/>
 </div>
 
-# Mon plus gros projet
+# My best project
 <p>
     <a href="https://github.com/xBibouu/STI2D-Projet-Final-Premiere" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xBibouu&repo=STI2D-Projet-Final-Premiere&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
 </a>
