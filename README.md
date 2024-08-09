@@ -32,7 +32,7 @@
 
 <p align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=php,c#,js,python,html,css,git&theme=dark)](https://github.com/xbibouu)
+  [![My Skills](https://skillicons.dev/icons?i=php,c,js,python,html,css,git&theme=dark)](https://github.com/xbibouu)
   
 </p>
 
