@@ -1,6 +1,6 @@
 ## xBibou
 
-- 🤍 PHP, C#
+- 🤍 PHP, C
 - 🖤 French developer
 - 🏆 Founder of Néphelia
 
